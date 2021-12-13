@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Freehand', cursive;
+    background:chartreuse
+}
+ .header_div
+ {
+     background: antiquewhite;
+     color: rgb(175, 206, 65);
+ }
+ .header_div p{
+    font-family: 'Comforter', cursive;
+    color: rgba(95, 43, 216, 0.884);
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: 500;
+ }
+ .main_div button{
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+ }
+ .copy_right_folder {
+
+    position: fixed;
+    color: rgb(7, 89, 104);
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(194, 39, 90);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgba(149, 151, 40, 0.822);
+ }
